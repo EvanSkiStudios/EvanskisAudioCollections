@@ -1,0 +1,38 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "EvanskisAudioCollections",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Example","folderPath":"folders/Evanskis_Audio_Collections/Example.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Evanskis_Audio_Collections","folderPath":"folders/Evanskis_Audio_Collections.yy","order":0,},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "MetaData": {
+    "IDEVersion": "2023.1.0.58",
+  },
+  "resources": [
+    {"id":{"name":"snd_sound_3","path":"sounds/snd_sound_3/snd_sound_3.yy",},"order":0,},
+    {"id":{"name":"snd_sound_2","path":"sounds/snd_sound_2/snd_sound_2.yy",},"order":0,},
+    {"id":{"name":"LICENSE","path":"notes/LICENSE/LICENSE.yy",},"order":0,},
+    {"id":{"name":"Evanskis_Audio_collections","path":"scripts/Evanskis_Audio_collections/Evanskis_Audio_collections.yy",},"order":0,},
+    {"id":{"name":"obj_Audioplayer","path":"objects/obj_Audioplayer/obj_Audioplayer.yy",},"order":0,},
+    {"id":{"name":"README","path":"notes/README/README.yy",},"order":0,},
+    {"id":{"name":"snd_sound_1","path":"sounds/snd_sound_1/snd_sound_1.yy",},"order":0,},
+    {"id":{"name":"EAC_Example","path":"rooms/EAC_Example/EAC_Example.yy",},"order":0,},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"EAC_Example","path":"rooms/EAC_Example/EAC_Example.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

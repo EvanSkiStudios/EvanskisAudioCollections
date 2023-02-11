@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Example","order":3,"path":"folders/Evanskis_Audio_Collections/Example.yy",},
+    {"name":"Evanskis_Audio_Collections","order":2,"path":"folders/Evanskis_Audio_Collections.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"snd_sound_3","order":2,"path":"sounds/snd_sound_3/snd_sound_3.yy",},
+    {"name":"snd_sound_2","order":1,"path":"sounds/snd_sound_2/snd_sound_2.yy",},
+    {"name":"LICENSE","order":1,"path":"notes/LICENSE/LICENSE.yy",},
+    {"name":"obj_Audioplayer","order":4,"path":"objects/obj_Audioplayer/obj_Audioplayer.yy",},
+    {"name":"README","order":2,"path":"notes/README/README.yy",},
+    {"name":"EAC_Example","order":3,"path":"rooms/EAC_Example/EAC_Example.yy",},
+  ],
+}
